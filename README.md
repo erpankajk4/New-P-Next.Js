@@ -74,7 +74,6 @@ The News P-App was designed and developed with a structured approach to ensure e
 
 ## Testing and Deployment
 - **Local Testing:** Conducted rigorous testing of individual components and functionalities to ensure stability and performance.
-- **Netlify Deployment:** Deployed the application on Netlify for live preview and accessibility.
 - **Continuous Improvement:** Will continue to improve the application based on user feedback, addressing any reported issues and incorporating new features or enhancements.
 
 This approach ensured a methodical development process, emphasizing usability, functionality, and scalability, resulting in a user-friendly news application.
