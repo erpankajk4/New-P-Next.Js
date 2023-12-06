@@ -6,7 +6,7 @@ import Article from '@/components/Article';
 import { removeDuplicateData } from '@/utils';
 import LayoutButton from "@/components/LayoutButton";
 
-const india = () => {
+const India = () => {
   const [filterArticles, setFilterArticles] = useState([]);
   const [layout, setLayout] = useState(false);
 
@@ -39,4 +39,4 @@ const india = () => {
   );
 };
 
-export default india;
+export default India;

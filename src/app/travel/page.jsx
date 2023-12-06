@@ -6,7 +6,7 @@ import Article from '@/components/Article';
 import { removeDuplicateData } from '@/utils';
 import LayoutButton from "@/components/LayoutButton";
 
-const travel = () => {
+const Travel = () => {
   const [filterArticles, setFilterArticles] = useState([]);
   const [layout, setLayout] = useState(false);
 
@@ -39,4 +39,4 @@ const travel = () => {
   );
 };
 
-export default travel;
+export default Travel;

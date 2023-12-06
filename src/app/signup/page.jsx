@@ -23,7 +23,7 @@ const RegisterForm = () => {
     if (!isLoading && authUser) {
       router.push("/");
     }
-  }, [authUser, isLoading]);
+  }, [authUser, isLoading, router]);
 
   const singupHandler = async () => {
     if (!email || !password || !username) return;
