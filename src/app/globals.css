@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: whitesmoke;
+}
+
+.grid-layout-button {
+  color: #1f2937;
+  background-color: #ffffff;
+  border: 1px solid #d1d5db;
+  border-radius: 5px ;
+  outline: none;
+  font-weight: 500;
+  font-size: 0.875rem;
+  padding: 5px 5px;
+  margin-top : 0.5rem;
+  width: 63px;
+}
+
+.grid-layout-button:hover {
+  background-color: #f3f4f6;
+  border-color: #9ca3af;
+}
+
+
+svg{
+  margin-top: 3px;
+}
