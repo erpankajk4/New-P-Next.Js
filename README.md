@@ -1,10 +1,7 @@
 # News P-App
 Welcome to the News P-App! This application fetches news articles from various categories and provides a user-friendly interface to read and explore the latest news.
-
-## Hosted Link on Netlify
-https://shopyshop-redux.netlify.app - Click the Link to Preview <br/>
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0c8ecddc-7bf5-45d3-8f79-df5d8485a808/deploy-status)](https://app.netlify.com/sites/shopyshop-redux/deploys) <br/>
-![home](https://github.com/erpankajk4/New-P-Next.Js/assets/118353291/eba541b6-a963-496f-9072-a70d07049647)
+## Youtube Video Link : https://www.youtube.com/watch?v=ce8vb7m03ms
+![home](https://github.com/erpankajk4/New-P-Next.Js/assets/118353291/56ca6027-4edc-4d7d-b739-ef295fd28dfd)
 
 ## Features
 - **Multicategory News Display:** Explore articles across diverse categories such as health, business, sports, and more, providing a comprehensive range of news content.
@@ -77,16 +74,17 @@ The News P-App was designed and developed with a structured approach to ensure e
 
 ## Testing and Deployment
 - **Local Testing:** Conducted rigorous testing of individual components and functionalities to ensure stability and performance.
-- **Netlify Deployment:** Deployed the application on Netlify for live preview and accessibility.
 - **Continuous Improvement:** Will continue to improve the application based on user feedback, addressing any reported issues and incorporating new features or enhancements.
 
 This approach ensured a methodical development process, emphasizing usability, functionality, and scalability, resulting in a user-friendly news application.
 
 ## Demo
-![grid layout](https://github.com/erpankajk4/New-P-Next.Js/assets/118353291/77b8e6d6-c95c-4133-961f-946de2061c5f)
-![login](https://github.com/erpankajk4/New-P-Next.Js/assets/118353291/76950442-1512-42f6-afdd-d8518e7447ba)
-![Signup](https://github.com/erpankajk4/New-P-Next.Js/assets/118353291/66740156-3f5c-4c4c-a1ca-a9127c8fa122)
-![mobile](https://github.com/erpankajk4/New-P-Next.Js/assets/118353291/780facdb-ce81-48f3-ad9d-d9b830df5dd7)
+![grid layout](https://github.com/erpankajk4/New-P-Next.Js/assets/118353291/965e0b44-7099-454d-9dde-4338d72b7a0a)
+![login](https://github.com/erpankajk4/New-P-Next.Js/assets/118353291/1bd5ddc6-a95a-4283-892b-5d162bb48057)
+![Signup](https://github.com/erpankajk4/New-P-Next.Js/assets/118353291/058975fb-0b3f-4027-9641-3e3103dee3ff)
+![mobile](https://github.com/erpankajk4/New-P-Next.Js/assets/118353291/614e831a-ae9b-45e2-96bc-4b5bf203103e)
+
+
 
 ## Folder Structure
 The project is organized as follows:
