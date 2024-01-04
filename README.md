@@ -5,7 +5,9 @@ Welcome to the News P-App! This application fetches news articles from various c
 
 ## Deployment:
 ![Screenshot 2024-01-04 193635](https://github.com/erpankajk4/News-P-Next.Js/assets/118353291/3b5dfb74-b6ab-4801-a060-5483a5483ced)
-**Note:**  NewsAPI is paid in deployement So, It can not be deploy for FREE.
+**Note :**  NewsAPI requires a paid subscription for deployment; therefore, it cannot be deployed for free. You can see it in the console of the link below.
+**Netlify hosted Link :** https://news-p-nextjs.netlify.app/
+**For More Information :** https://newsapi.org/pricing
 
 ## Features
 - **Multicategory News Display:** Explore articles across diverse categories such as health, business, sports, and more, providing a comprehensive range of news content.
@@ -23,7 +25,6 @@ The application fetches news articles from [NewsAPI](https://newsapi.org/), whic
 
 **Note:** if articles are not loading, it's likely due to reaching the maximum number of requests allowed for free users.
 To avoid any limitations on API requests, consider signing up for a NewsAPI account and replace API_TOKEN_KEY in .env.local to access again this API.
-
 
 ## Technologies Used
 Next.js
