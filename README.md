@@ -3,6 +3,10 @@ Welcome to the News P-App! This application fetches news articles from various c
 ## Youtube Video Link : https://www.youtube.com/watch?v=ce8vb7m03ms
 ![home](https://github.com/erpankajk4/New-P-Next.Js/assets/118353291/56ca6027-4edc-4d7d-b739-ef295fd28dfd)
 
+## Deployment:
+![Screenshot 2024-01-04 193635](https://github.com/erpankajk4/News-P-Next.Js/assets/118353291/3b5dfb74-b6ab-4801-a060-5483a5483ced)
+**Note:**  NewsAPI is paid in deployement So, It can not be deploy for FREE.
+
 ## Features
 - **Multicategory News Display:** Explore articles across diverse categories such as health, business, sports, and more, providing a comprehensive range of news content.
 - **Article Liking and Saving:** Save preferred articles to a personalized "liked" section for easy access, enabling users to curate their reading list. All updates are reflected in real-time.
